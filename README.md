@@ -1,18 +1,31 @@
-### Hi there 👋
+## 🙋‍♂️ Introducing Myself
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=edbond)](https://github.com/anuraghazra/github-readme-stats)
+![Personal LinkedIn Banner](https://github.com/edbond/edbond/blob/main/UIUX%20Portfolio%20Banner.png)
 
-<!--
-**edbond/edbond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Eduard. Senior software developer with expertise in backend development, query optimization, database design, and data modelling. 
 
-Here are some ideas to get you started:
+- Designing and implementing scalable backend architectures
+- Developing RESTful APIs and microservices
+- Optimizing database performance and query efficiency
+- Implementing caching strategies and data storage solutions
+- Ensuring application security and implementing authentication/authorization
+- Containerization and orchestration using Docker and Kubernetes
+- Continuous Integration and Continuous Deployment (CI/CD) pipelines
+- Performance tuning and troubleshooting of backend systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/edbond/Portfolio-Guide/README.md).
+
+### 🛠️ Tools
+
+- Programming Languages: Proficient in Go, Python, Ruby, JavaScript, TypeScript, Rust, Clojure
+- Database Management: Expertise in SQL/NoSQL, PostgreSQL, MySQL, MongoDB, AWS DynamoDB
+- Cloud Technologies: Skilled in AWS services including S3, IAM, SQS, Lambda, EC2, SES, RDS, CloudFront
+- Development Methodologies: Agile, Scrum, CI/CD, Microservices, RESTful API design
+- Technical Tools: Docker, Kubernetes, Kafka, React, gRPC, Protobuf, GraphQL; proficient with Git, Jira, HTML, CSS
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/edbond/)
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~014ed793f84e31e229)
